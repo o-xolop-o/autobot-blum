@@ -30,7 +30,7 @@
   <p align="center">
     <strong>Данный бот предназначен для автоматизации кликов</strong>
   </p>
-  <img height="600" src="./resources/demo.gif"/>
+  <img height="400" src="./resources/demo.gif"/>
 
 </div>
 
